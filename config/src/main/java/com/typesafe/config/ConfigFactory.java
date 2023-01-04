@@ -33,6 +33,7 @@ import java.util.concurrent.Callable;
  * <p> You can find an example app and library <a
  * href="https://github.com/lightbend/config/tree/master/examples">on
  * GitHub</a>.  Also be sure to read the <a
+ * catch (InvocationTargetException e) {
  * href="package-summary.html#package_description">package
  * overview</a> which describes the big picture as shown in those
  * examples.
